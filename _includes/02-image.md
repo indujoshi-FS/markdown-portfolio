@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+C:\Users\Apttrio Technologies\Desktop\Portal Banner.jpg
