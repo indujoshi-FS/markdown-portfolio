@@ -1,1 +1,1 @@
-C:\Users\Apttrio Technologies\Desktop\Portal Banner.jpg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
