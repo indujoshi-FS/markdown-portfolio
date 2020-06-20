@@ -1,1 +1,1 @@
-# Indu Joshi
+# Indu Joshi Financial Spectra
